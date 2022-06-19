@@ -4,13 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey! My name is Siddhant Satapathy, and I am a rising junior majoring in Computer Science and minoring in History.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This is my second semester teaching Data 100, I'm looking forward to a fantastic semester and am super excited to meet you!
 
-What else do you need?
+Some things I do:
 
-### My story
+- Cook (and occasionally set off fire alarms)
+- Read (and hoard books)
+- Hike!
+- Play soccer
+- Pontificate about crypto
+- Sport perhaps the strangest accent ever (I don't know how either)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to reach out to me at satapathy (at) berkeley.edu! Happy to talk about anything at all :-))
