@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
 Hey! My name is Siddhant Satapathy, and I am a rising junior majoring in Computer Science and minoring in History.
